@@ -1,4 +1,4 @@
-# Soluções em Pyth
+# Soluções em Python
 
 Este repositório reúne notebooks desenvolvidos em Python para automatizar atividades, tratar dados e apoiar processos analíticos utilizados durante minha atuação como Analista de Dados.
 
